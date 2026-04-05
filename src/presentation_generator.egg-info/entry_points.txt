@@ -1,0 +1,2 @@
+[console_scripts]
+presentation-gen = presentation_gen.cli:main
